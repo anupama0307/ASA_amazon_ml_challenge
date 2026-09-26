@@ -1,0 +1,8 @@
+dataset,rows,columns,memory_mb
+train_source1,2206821,4,671.83
+train_source2,5034616,4,1670.91
+train_source3,5285603,4,1719.04
+train_ground_truth,2206821,2,356.85
+test_source1,1732544,4,544.43
+test_source2,4887273,4,1692.83
+test_source3,5082316,4,1709.16
